@@ -1,0 +1,6 @@
+https://git-scm.com/book/en/v2 - Pro Git book, S.Chacon & B. Straub
+http://rogerdudler.github.io/git-guide/ - Git, the simple guide
+https://www.atlassian.com/git/tutorials - Become a git guru, atlassian tutorials
+
+Bonus:
+http://linuxcommand.org/lc3_learning_the_shell.php
